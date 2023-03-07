@@ -17,5 +17,5 @@ Website Figma -- https://www.figma.com/
 ## Task 2: Submit your Wireframe design.
 Edit this Readme.md by attach link of your figma design.
 
-Paste you Figma designe here : 
+[My Figma Design](https://www.figma.com/file/LY0SUlO9mZYJwl7GVasDlw/Exercise-tracking-web-app-design?node-id=0%3A1&t=tYLRZFXSIDxYrFwr-1)
 
